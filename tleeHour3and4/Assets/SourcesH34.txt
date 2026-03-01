@@ -1,0 +1,14 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url: https://www.vecteezy.com/photo/9371671-cobble-stone-texture-seamless-texture-high-resolution
+
+Texture 2 source url: https://discussions.unity.com/t/seamless-textures-variants/590014
+
+3D model source url: https://assetstore.unity.com/packages/3d/vehicles/land/mini-cargo-truck-68663
+
