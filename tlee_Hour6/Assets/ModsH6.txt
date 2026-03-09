@@ -1,0 +1,26 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+I decided to go a different route. I made the glass game in Squid game. There is one path through the 4 rows that the player can take to make it to the end. I know it doesn't really fit with the timer and everything, but I found this more fun to do.
+
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+The hazards are that 4 of the 8 glass platforms will send you back to the beginning. The other hazard is falling off into the abyss, which also sets you back to the beginning.
+
+
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+You have to jump from platform to platform. 
+
+
+
+D. Modify the sky and textures to create a world based on your theme.
+I made it very dark like how it is in the tv show. I also added a wall with the squid game title at the end of it. I figure it's fair use since this is just for educational purposes, but let me know if you need me to change it.
+
+
